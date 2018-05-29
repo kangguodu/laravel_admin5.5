@@ -1,0 +1,5 @@
+1/建立数据库
+2/导入数据
+3/配置数据库.env
+4/composer  update
+5/账号密码：superadmin superadmin
